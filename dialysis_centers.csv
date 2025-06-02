@@ -1,0 +1,701 @@
+GEO,X,Y,FID,CALCLOCATI,CALCLOCA_1,CALCLOCA_2,NAME,ADDRESS,CITY,STATE,ZIP,FORMATED_P,STATUS,ICON,TYPE_,OBJECTID
+"{
+  ""coordinates"": [
+    -9.063350000000000e+01,
+    3.451810000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.6335,34.5181,209,"34.51810100,-90.63349800",-90.633498,34.518101,FMCNA - HELENA,108 D ANNA PL,HELENA,AR,72342,Please call patient admission line,open,small_green,Dialysis Center,109
+"{
+  ""coordinates"": [
+    -8.987360000000000e+01,
+    3.074960000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.8736,30.7496,211,"30.74961800,-89.87356800",-89.873568,30.749618,DAVITA - BOGALUSA KIDNEY CARE,2108 S AVE F,BOGALUSA,LA,70427,Please call patient admission line,open,small_green,Dialysis Center,111
+"{
+  ""coordinates"": [
+    -9.100310000000000e+01,
+    3.008720000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.0031,30.0872,212,"30.08724400,-91.00308600",-91.003086,30.087244,FMCNA - DONALDSONVILLE DIALYSIS,101 PLIMSOL DR,DONALDSONVILLE,LA,70346,Please call patient admission line,open,small_green,Dialysis Center,112
+"{
+  ""coordinates"": [
+    -9.319560000000000e+01,
+    3.020370000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.1956,30.2037,214,"30.20370900,-93.19557200",-93.195572,30.203709,FKC - EAST LAKE CHARLES,1801 Oak Park Blvd,LAKE CHARLES,LA,70615,Please call patient admission line,open,small_green,Dialysis Center,114
+"{
+  ""coordinates"": [
+    -9.072629999999999e+01,
+    2.999670000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.7263,29.9967,215,"29.99666800,-90.72628600",-90.726286,29.996668,VACHERIE DX,2504 HIWAY 20 STE B,VACHERIE,LA,70090,Please call patient admission line,open,small_green,Dialysis Center,115
+"{
+  ""coordinates"": [
+    -9.206840000000000e+01,
+    3.041130000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.0684,30.4113,216,"30.41131000,-92.06845000",-92.06845,30.41131,FMCNA - SUNSET,115 ACORN ST,SUNSET,LA,70584,Please call patient admission line,open,small_green,Dialysis Center,116
+"{
+  ""coordinates"": [
+    -9.028149999999999e+01,
+    2.998180000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.2815,29.9818,217,"29.98183800,-90.28149500",-90.281495,29.981838,FMCNA - OCHSNER-ST CHARLES,150 JAMES DR EAST  STE 110,SAINT ROSE,LA,70087,Please call patient admission line,open,small_green,Dialysis Center,117
+"{
+  ""coordinates"": [
+    -9.081870000000001e+01,
+    2.981200000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.8187,29.812,218,"29.81199600,-90.81872800",-90.818728,29.811996,FKC - NORTH THIBODAUX,108 WESTOVER DRIVE,THIBODAUX,LA,70301,Please call patient admission line,open,small_green,Dialysis Center,118
+"{
+  ""coordinates"": [
+    -8.728210000000000e+01,
+    3.385110000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.2821,33.8511,282,"33.85110500,-87.28205500",-87.282055,33.851105,DaVita Walker County Dialysis,260 6th Avenue Northwest,JASPER,AL,35504,Please call patient admission line,open,small_green,Dialysis Center,182
+"{
+  ""coordinates"": [
+    -8.929089999999999e+01,
+    3.196510000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.2909,31.9651,283,"31.96505900,-89.29086400",-89.290864,31.965059,BAY SPRINGS DIALYSIS,14 BAY AVENUE,BAY SPRINGS,MS,39422,Please call patient admission line,open,small_green,Dialysis Center,183
+"{
+  ""coordinates"": [
+    -9.207110000000000e+01,
+    3.054320000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.0711,30.5432,285,"30.54324700,-92.07109800",-92.071098,30.543247,DCI - OPELOUSAS,927 E PRUDHOMME ST,OPELOUSAS,LA,70570,Please call patient admission line,open,small_green,Dialysis Center,185
+"{
+  ""coordinates"": [
+    -8.784220000000001e+01,
+    3.249870000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.8422,32.4987,292,"32.49865800,-87.84219000",-87.84219,32.498658,DaVita White Bluff Dialysis,"505 Highway 80 W, Suite F",DEMOPOLIS,AL,36732,Please call patient admission line,open,small_green,Dialysis Center,192
+"{
+  ""coordinates"": [
+    -8.706880000000000e+01,
+    3.112710000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.0688,31.1271,404,"31.12714900,-87.06878500",-87.068785,31.127149,DaVita Brewton Dialysis,1023 DOUGLAS AVENUE,BREWTON,AL,36426,Please call patient admission line,open,small_green,Dialysis Center,204
+"{
+  ""coordinates"": [
+    -9.000749999999999e+01,
+    3.261200000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.0075,32.612,406,"32.61195400,-90.00750300",-90.007503,32.611954,FMC CANTON,1976 MS-43 N.,CANTON,MS,39046,Please call patient admission line,open,small_green,Dialysis Center,206
+"{
+  ""coordinates"": [
+    -9.005040000000000e+01,
+    3.311280000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.0504,33.1128,407,"33.11277200,-90.05039200",-90.050392,33.112772,DaVita Renal Care of Lexington,22579 DEPOT STREET,LEXINGTON,MS,39095,Please call patient admission line,open,small_green,Dialysis Center,207
+"{
+  ""coordinates"": [
+    -9.087300000000000e+01,
+    3.290380000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.873,32.9038,408,"32.90379400,-90.87299800",-90.872998,32.903794,Fresenius Kidney Care Rolling Fork Dialysis,20019 HWY 61 SOUTH,ROLLING FORK,MS,39159,Please call patient admission line,open,small_green,Dialysis Center,208
+"{
+  ""coordinates"": [
+    -8.955610000000000e+01,
+    3.162980000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.5561,31.6298,409,"31.62976800,-89.55607700",-89.556077,31.629768,COLLINS DIALYSIS,15 COVINGTON RIDGE PLACE,COLLINS,MS,39428,Please call patient admission line,open,small_green,Dialysis Center,209
+"{
+  ""coordinates"": [
+    -9.049720000000001e+01,
+    3.318620000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.4972,33.1862,410,"33.18622100,-90.49723200",-90.497232,33.186221,Fresenius Kidney Care Belzoni,16451 U.S. HIGHWAY 49,BELZONI,MS,39038,Please call patient admission line,open,small_green,Dialysis Center,210
+"{
+  ""coordinates"": [
+    -8.843180000000000e+01,
+    3.353660000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.4318,33.5366,411,"33.53659200,-88.43180700",-88.431807,33.536592,Fresenius Kidney Care Lowdnes County Dialysis,3499 BLUECUTT ROAD,COLUMBUS,MS,39705,Please call patient admission line,open,small_green,Dialysis Center,211
+"{
+  ""coordinates"": [
+    -8.940030000000000e+01,
+    3.131040000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.4003,31.3104,412,"31.31040700,-89.40027000",-89.40027,31.310407,HATTIESBURG CLINIC PA,6855 LINCOLN ROAD EXT,HATTIESBURG,MS,39402,Please call patient admission line,open,small_green,Dialysis Center,212
+"{
+  ""coordinates"": [
+    -9.119459999999999e+01,
+    3.082480000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.1946,30.8248,474,"30.82478000,-91.19458100",-91.194581,30.82478,DIXON CORRECTIONAL INSTITUTE - DIALYSIS UNIT,5568 LA-68,JACKSON,LA,70748,Please call patient admission line,open,small_green,Dialysis Center,274
+"{
+  ""coordinates"": [
+    -9.018110000000000e+01,
+    3.000030000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.1811,30.0003,476,"30.00028100,-90.18114300",-90.181143,30.000281,FMCNA - METAIRIE,4425 UTICA ST,METAIRIE,LA,70006,Please call patient admission line,open,small_green,Dialysis Center,276
+"{
+  ""coordinates"": [
+    -9.013509999999999e+01,
+    3.045730000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.1351,30.4573,477,"30.45728000,-90.13511100",-90.135111,30.45728,FMCNA - PONTCHARTRAIN KIDNEY CTR,170 GREENBRIAR DR,COVINGTON,LA,70433,Please call patient admission line,open,small_green,Dialysis Center,277
+"{
+  ""coordinates"": [
+    -9.209310000000001e+01,
+    3.208340000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.0931,32.0834,478,"32.08336100,-92.09312100",-92.093121,32.083361,FMCNA - CALDWELL PARISH,7720 US-165 STE 3,COLUMBIA,LA,71418,Please call patient admission line,open,small_green,Dialysis Center,278
+"{
+  ""coordinates"": [
+    -9.238160000000001e+01,
+    3.276790000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.3816,32.7679,479,"32.76791000,-92.38163400",-92.381634,32.76791,FMCNA - UNION PARISH DX,1012 STERLINGTON HWY,FARMERVILLE,LA,71241,Please call patient admission line,open,small_green,Dialysis Center,279
+"{
+  ""coordinates"": [
+    -9.326190000000000e+01,
+    3.258550000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.2619,32.5855,480,"32.58549300,-93.26189000",-93.26189,32.585493,FMCNA - EAST MINDEN,10000 INDUSTRIAL RD,MINDEN,LA,71055,Please call patient admission line,open,small_green,Dialysis Center,280
+"{
+  ""coordinates"": [
+    -9.376430000000001e+01,
+    3.253890000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.7643,32.5389,481,"32.53890000,-93.76430600",-93.764306,32.5389,DCI - NORTH SHREVEPORT,1515 N HEARNE AVE,SHREVEPORT,LA,71107,Please call patient admission line,open,small_green,Dialysis Center,281
+"{
+  ""coordinates"": [
+    -8.976580000000000e+01,
+    3.027640000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.7658,30.2764,482,"30.27639200,-89.76582800",-89.765828,30.276392,DaVita Fremaux Dialysis,1566 SHORTCUT HWY,SLIDELL,LA,70458,Please call patient admission line,open,small_green,Dialysis Center,282
+"{
+  ""coordinates"": [
+    -9.097940000000000e+01,
+    3.032070000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.9794,30.3207,483,"30.32074300,-90.97940500",-90.979405,30.320743,DaVita Prairieville Dialysis,17123 COMMERCE CENTER DR,PRAIRIEVILLE,LA,70769,Please call patient admission line,open,small_green,Dialysis Center,283
+"{
+  ""coordinates"": [
+    -9.015660000000000e+01,
+    3.084530000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.1566,30.8453,484,"30.84529700,-90.15656500",-90.156565,30.845297,FKC - WASHINGTON PARISH,2219 MAIN ST,FRANKLINTON,LA,70438,Please call patient admission line,open,small_green,Dialysis Center,284
+"{
+  ""coordinates"": [
+    -9.377060000000000e+01,
+    3.010430000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.7706,30.1043,494,"30.10431800,-93.77064800",-93.770648,30.104318,Fresenius Kidney Care Orange,1301 S MARTIN LUTHER KING DR,ORANGE,TX,77630,Please call patient admission line,open,small_green,Dialysis Center,294
+"{
+  ""coordinates"": [
+    -9.410270000000000e+01,
+    3.153460000000000e+01
+  ],
+  ""type"": ""Point""
+}",-94.1027,31.5346,499,"31.53463700,-94.10266800",-94.102668,31.534637,SNG SN AUGUSTINE DIALYSIS CENTER,403 N MILAM STREET,SAN AUGUSTINE,TX,75972,Please call patient admission line,open,small_green,Dialysis Center,299
+"{
+  ""coordinates"": [
+    -8.809500000000000e+01,
+    3.326180000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.095,33.2618,132,"33.26182600,-88.09502500",-88.095025,33.261826,DaVita Pickens County Dialysis,289 WILLIAM EAST HILL DRIVE,CARROLLTON,AL,35447,Please call patient admission line,open,small_green,Dialysis Center,332
+"{
+  ""coordinates"": [
+    -8.833620000000001e+01,
+    3.049830000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.3362,30.4983,135,"30.49826900,-88.33621500",-88.336215,30.498269,"BIO-MEDICAL APPLICATIONS OF ALABAMA, INC.",12401 SKOPELOS RD,GRAND BAY,AL,36541,Please call patient admission line,open,small_green,Dialysis Center,335
+"{
+  ""coordinates"": [
+    -9.102710000000000e+01,
+    3.337980000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.0271,33.3798,139,"33.37984400,-91.02710800",-91.027108,33.379844,RCG GREENVILLE,2001 S MEDICAL PARK DRIVE,GREENVILLE,MS,38703,Please call patient admission line,open,small_green,Dialysis Center,339
+"{
+  ""coordinates"": [
+    -9.045820000000001e+01,
+    3.159270000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.4582,31.5927,140,"31.59271500,-90.45818300",-90.458183,31.592715,RCG BROOKHAVEN,534 IRBY DRIVE,BROOKHAVEN,MS,39601,Please call patient admission line,open,small_green,Dialysis Center,340
+"{
+  ""coordinates"": [
+    -8.914319999999999e+01,
+    3.233380000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.1432,32.3338,141,"32.33378400,-89.14315200",-89.143152,32.333784,Fresenius Kidney Care Central Newton County,121 OLD 15 LOOP,NEWTON,MS,39345,Please call patient admission line,open,small_green,Dialysis Center,341
+"{
+  ""coordinates"": [
+    -8.948550000000000e+01,
+    3.235270000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.4855,32.3527,142,"32.35265700,-89.48547200",-89.485472,32.352657,Fresenius Kidney Care Forest,570 Deerfield Drive,FOREST,MS,39074,Please call patient admission line,open,small_green,Dialysis Center,342
+"{
+  ""coordinates"": [
+    -9.014560000000000e+01,
+    3.113160000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.1456,31.1316,143,"31.13157900,-90.14560200",-90.145602,31.131579,TYLERTOWN DIALYSIS,4820 PLAZA DRIVE,TYLERTOWN,MS,39667,Please call patient admission line,open,small_green,Dialysis Center,343
+"{
+  ""coordinates"": [
+    -9.000000000000000e+01,
+    3.159660000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90,31.5966,144,"31.59656400,-90.00001900",-90.000019,31.596564,SILVER CREEK DIALYSIS,21 EMU STREET,SILVER CREEK,MS,39663,Please call patient admission line,open,small_green,Dialysis Center,344
+"{
+  ""coordinates"": [
+    -8.911680000000000e+01,
+    3.275440000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.1168,32.7544,145,"32.75438700,-89.11679700",-89.116797,32.754387,RCG of Philadelphia,1100 CENTRAL DRIVE,PHILADELPHIA,MS,39350,Please call patient admission line,open,small_green,Dialysis Center,345
+"{
+  ""coordinates"": [
+    -8.705390000000000e+01,
+    3.242480000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.0539,32.4248,303,"32.42481100,-87.05394300",-87.053943,32.424811,FMC DALLAS COUNTY,200 SOUTH PARK PL,SELMA,AL,36701,Please call patient admission line,open,small_green,Dialysis Center,403
+"{
+  ""coordinates"": [
+    -8.866070000000001e+01,
+    3.359200000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.6607,33.592,304,"33.59202400,-88.66068300",-88.660683,33.592024,"RENAL CARE GROUP TUPELO, LLC",1612 WEST CHURCH HILL ROAD,WEST POINT,MS,39773,Please call patient admission line,open,small_green,Dialysis Center,404
+"{
+  ""coordinates"": [
+    -9.241650000000000e+01,
+    3.064140000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.4165,30.6414,313,"30.64139000,-92.41648500",-92.416485,30.64139,FMCNA - DIALYSIS SERVICES-MAMOU,801 POINCIANA AVE,MAMOU,LA,70554,Please call patient admission line,open,small_green,Dialysis Center,413
+"{
+  ""coordinates"": [
+    -8.790870000000000e+01,
+    3.063140000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.9087,30.6314,339,"30.63140300,-87.90870500",-87.908705,30.631403,DaVita Home Dialysis Options of Baldwin County PD,"27880 N. MAIN ST, SUITE A",DAPHNE,AL,36526,Please call patient admission line,open,small_green,Dialysis Center,439
+"{
+  ""coordinates"": [
+    -8.732280000000000e+01,
+    3.151680000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.3228,31.5168,392,"31.51680200,-87.32275400",-87.322754,31.516802,FMC MONROEVILLE (WHETSTONE),676 S ALABAMA AVE,MONROEVILLE,AL,36460,Please call patient admission line,open,small_green,Dialysis Center,492
+"{
+  ""coordinates"": [
+    -8.768470000000001e+01,
+    3.042910000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.6847,30.4291,394,"30.42911600,-87.68471500",-87.684715,30.429116,DaVita South Baldwin Dialysis Center,150 W PEACHTREE AVE,FOLEY,AL,36535,Please call patient admission line,open,small_green,Dialysis Center,494
+"{
+  ""coordinates"": [
+    -8.774420000000001e+01,
+    3.188140000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.7442,31.8814,395,"31.88139000,-87.74420700",-87.744207,31.88139,FMC THOMASVILLE,30230 HWY 43,THOMASVILLE,AL,36784,Please call patient admission line,open,small_green,Dialysis Center,495
+"{
+  ""coordinates"": [
+    -8.771790000000000e+01,
+    3.450680000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.7179,34.5068,396,"34.50681500,-87.71786400",-87.717864,34.506815,DaVita Russellville Dialysis,14897 HWY 43,RUSSELLVILLE,AL,35653,Please call patient admission line,open,small_green,Dialysis Center,496
+"{
+  ""coordinates"": [
+    -8.704940000000001e+01,
+    3.244160000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.0494,32.4416,399,"32.44157900,-87.04935200",-87.049352,32.441579,FMC VALLEY CREEK,201 LINCOLN LANE,SELMA,AL,36701,Please call patient admission line,open,small_green,Dialysis Center,499
+"{
+  ""coordinates"": [
+    -9.092680000000000e+01,
+    3.232470000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.9268,32.3247,1,"32.32474700,-90.92676500",-90.926765,32.324747,FMCNA - DELTA,104 RAILROAD AVE,DELTA,LA,71233,Please call patient admission line,open,small_green,Dialysis Center,764
+"{
+  ""coordinates"": [
+    -8.871750000000000e+01,
+    3.421590000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.7175,34.2159,11,"34.21588900,-88.71752100",-88.717521,34.215889,"RENAL CARE GROUP TUPELO, LLC",2978 MATTOX STREET,TUPELO,MS,38801,Please call patient admission line,open,small_green,Dialysis Center,911
+"{
+  ""coordinates"": [
+    -8.891100000000000e+01,
+    3.041230000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.911,30.4123,16,"30.41234240,-88.91098200",-88.910982,30.4123424,KEESLER MEDICAL CENTER,301 FISHER ST,Biloxi,MS,39564,Please call patient admission line,open,small_green,Dialysis Center,916
+"{
+  ""coordinates"": [
+    -9.237550000000000e+01,
+    3.473980000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.3755,34.7398,34,"34.73979200,-92.37545600",-92.375456,34.739792,WESTSIDE DIALYSIS UNIT LLC,1515 KANIS PARK DR,LITTLE ROCK,AR,72204,Please call patient admission line,open,small_green,Dialysis Center,934
+"{
+  ""coordinates"": [
+    -9.323620000000000e+01,
+    3.328050000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.2362,33.2805,1050,"33.28051800,-93.23616600",-93.236166,33.280518,KIDNEY DISEASE AND DIALYSIS CLINIC OF MAGNOLIA,1411 N JACKSON,MAGNOLIA,AR,71754,Please call patient admission line,open,small_green,Dialysis Center,1057
+"{
+  ""coordinates"": [
+    -9.284910000000001e+01,
+    3.358500000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.8491,33.585,1051,"33.58498800,-92.84910000",-92.8491,33.584988,DAVITA - OUACHITA VALLEY DIALYSIS,1114 WASHINGTON NW,CAMDEN,AR,71701,Please call patient admission line,open,small_green,Dialysis Center,1058
+"{
+  ""coordinates"": [
+    -9.306120000000000e+01,
+    3.447270000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.0612,34.4727,1052,"34.47268300,-93.06119600",-93.061196,34.472683,DAVITA - HOT SPRINGS DIALYSIS,115 WRIGHTS ST STE A,HOT SPRINGS,AR,71913,Please call patient admission line,open,small_green,Dialysis Center,1059
+"{
+  ""coordinates"": [
+    -9.114019999999999e+01,
+    3.046650000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.1402,30.4665,1053,"30.46649700,-91.14018400",-91.140184,30.466497,FMCNA - FOSTER DR DIALYSIS SVCS,1919 N FOSTER DR,BATON ROUGE,LA,70806,Please call patient admission line,open,small_green,Dialysis Center,1060
+"{
+  ""coordinates"": [
+    -9.056430000000000e+01,
+    2.970340000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.5643,29.7034,1054,"29.70339200,-90.56434300",-90.564343,29.703392,RACELAND DIALYSIS CTR,4601 HIGHWAY 1,RACELAND,LA,70394,Please call patient admission line,open,small_green,Dialysis Center,1061
+"{
+  ""coordinates"": [
+    -9.217860000000000e+01,
+    3.249250000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.1786,32.4925,1055,"32.49247900,-92.17861700",-92.178617,32.492479,FMCNA - OUACHITA DIALYSIS,102 THOMAS RD STE 306,WEST MONROE,LA,71291,Please call patient admission line,open,small_green,Dialysis Center,1062
+"{
+  ""coordinates"": [
+    -9.110980000000001e+01,
+    3.039950000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.1098,30.3995,1056,"30.39951700,-91.10979600",-91.109796,30.399517,FMCNA - PICARDY KIDNEY CTR,7638 PICARDY AVE STE A,BATON ROUGE,LA,70808,Please call patient admission line,open,small_green,Dialysis Center,1063
+"{
+  ""coordinates"": [
+    -9.335920000000000e+01,
+    3.024620000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.3592,30.2462,1057,"30.24616400,-93.35923900",-93.359239,30.246164,DAVITA - SULPHUR,944 S BEGLIS PKWAY,SULPHUR,LA,70663,Please call patient admission line,open,small_green,Dialysis Center,1064
+"{
+  ""coordinates"": [
+    -9.006210000000000e+01,
+    2.999950000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.0621,29.9995,1058,"29.99953900,-90.06211800",-90.062118,29.999539,DCI - NEW ORLEANS EAST,2077 Caton Street,NEW ORLEANS,LA,70128,Please call patient admission line,open,small_green,Dialysis Center,1065
+"{
+  ""coordinates"": [
+    -9.240620000000000e+01,
+    3.277030000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.4062,32.7703,1059,"32.77031300,-92.40623000",-92.40623,32.770313,FMCNA - FARMERVILLE,108 HILL ST,FARMERVILLE,LA,71241,Please call patient admission line,open,small_green,Dialysis Center,1066
+"{
+  ""coordinates"": [
+    -9.181720000000000e+01,
+    2.998860000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.8172,29.9886,1060,"29.98855600,-91.81725000",-91.81725,29.988556,DCI - KIDNEY CARE OF ACADIANA-NEW IBERIA,902-A S LEWIS AVE,NEW IBERIA,LA,70560,Please call patient admission line,open,small_green,Dialysis Center,1067
+"{
+  ""coordinates"": [
+    -9.021290000000000e+01,
+    2.997810000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.2129,29.9781,1061,"29.97809500,-90.21289100",-90.212891,29.978095,DAVITA - METAIRIE,7100 AIRLINE DR,METAIRIE,LA,70003,Please call patient admission line,open,small_green,Dialysis Center,1068
+"{
+  ""coordinates"": [
+    -8.974860000000000e+01,
+    3.031050000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.7486,30.3105,1062,"30.31052900,-89.74863200",-89.748632,30.310529,FMCNA - SLIDELL,877 BROWNSWITCH RD,SLIDELL,LA,70458,Please call patient admission line,open,small_green,Dialysis Center,1069
+"{
+  ""coordinates"": [
+    -9.008750000000001e+01,
+    2.987710000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.0875,29.8771,1063,"29.87708900,-90.08749400",-90.087494,29.877089,DAVITA - MARRERO DIALYSIS CENTER,1908 JUTLAND DR,HARVEY,LA,70058,Please call patient admission line,open,small_green,Dialysis Center,1070
+"{
+  ""coordinates"": [
+    -9.110870000000000e+01,
+    3.039920000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.1087,30.3992,1064,"30.39924900,-91.10868100",-91.108681,30.399249,DaVita Essen Lane Dialysis,7703 PICARDY AVE,BATON ROUGE,LA,70808,Please call patient admission line,open,small_green,Dialysis Center,1071
+"{
+  ""coordinates"": [
+    -9.086310000000000e+01,
+    3.047490000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.8631,30.4749,1065,"30.47490900,-90.86312000",-90.86312,30.474909,DaVita Walker Dialysis,28375 WALKER SOUTH RD,WALKER,LA,70785,Please call patient admission line,open,small_green,Dialysis Center,1072
+"{
+  ""coordinates"": [
+    -9.178090000000000e+01,
+    2.998730000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.7809,29.9873,1066,"29.98729000,-91.78085600",-91.780856,29.98729,DCI - BAYOU TECHE,2708 E. MAIN ST,NEW IBERIA,LA,70560,Please call patient admission line,open,small_green,Dialysis Center,1073
+"{
+  ""coordinates"": [
+    -9.379000000000001e+01,
+    3.240180000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.79,32.4018,1067,"32.40183100,-93.79003300",-93.790033,32.401831,DCI - ST JAMES,2020 BERT KOUNS INDUSTRIAL LOOP,SHREVEPORT,LA,71118,Please call patient admission line,open,small_green,Dialysis Center,1074
+"{
+  ""coordinates"": [
+    -9.335939999999999e+01,
+    3.024860000000000e+01
+  ],
+  ""type"": ""Point""
+}",-93.3594,30.2486,1068,"30.24856900,-93.35940300",-93.359403,30.248569,FKC - CALCASIEU PARISH,1000 BEGLIS PARKWAY,SULPHUR,LA,70663,Please call patient admission line,open,small_green,Dialysis Center,1075
+"{
+  ""coordinates"": [
+    -9.207780000000000e+01,
+    3.112780000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.0778,31.1278,1069,"31.12781100,-92.07780700",-92.077807,31.127811,FKC - MARKSVILLE,634 Tunica Dr W,Marksville,LA,71351,Please call patient admission line,open,small_green,Dialysis Center,1076
+"{
+  ""coordinates"": [
+    -9.418000000000001e+01,
+    3.312100000000000e+01
+  ],
+  ""type"": ""Point""
+}",-94.18,33.121,1095,"33.12102600,-94.18000400",-94.180004,33.121026,NORTHEAST TEXAS DIALYSIS,413-B US HWY 59,ATLANTA,TX,75551,Please call patient admission line,open,small_green,Dialysis Center,1102
+"{
+  ""coordinates"": [
+    -8.783530000000000e+01,
+    3.252100000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.8353,32.521,2052,"32.52104600,-87.83527800",-87.835278,32.521046,DaVita Demopolis Dialysis,305 S CEDAR AVE,DEMOPOLIS,AL,36732,Please call patient admission line,open,small_green,Dialysis Center,2062
+"{
+  ""coordinates"": [
+    -9.039630000000000e+01,
+    3.186430000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.3963,31.8643,2053,"31.86425600,-90.39634600",-90.396346,31.864256,FMC HAZLEHURST,201 N Haley St #0,HAZLEHURST,MS,39083,Please call patient admission line,open,small_green,Dialysis Center,2063
+"{
+  ""coordinates"": [
+    -9.138140000000000e+01,
+    3.286180000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.3814,32.8618,2061,"32.86180500,-91.38142100",-91.381421,32.861805,FMCNA - OAK GROVE,711 E JEFFERSON DR,OAK GROVE,LA,71263,Please call patient admission line,open,small_green,Dialysis Center,2071
+"{
+  ""coordinates"": [
+    -9.436610000000000e+01,
+    3.253320000000000e+01
+  ],
+  ""type"": ""Point""
+}",-94.3661,32.5332,2065,"32.53317400,-94.36605100",-94.366051,32.533174,MARSHALL DIALYSIS CENTER,1301 S WASHINGTON,MARSHALL,TX,75670,Please call patient admission line,open,small_green,Dialysis Center,2075
+"{
+  ""coordinates"": [
+    -8.754800000000000e+01,
+    3.324730000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.548,33.2473,2078,"33.24726700,-87.54795500",-87.547955,33.247267,RELIANT RENAL CARE NORTHRIDGE,4400 WATERMELON ROAD,NORTHPORT,AL,35473,Please call patient admission line,open,small_green,Dialysis Center,2088
+"{
+  ""coordinates"": [
+    -8.812170000000000e+01,
+    3.075860000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.1217,30.7586,2126,"30.75862400,-88.12167900",-88.121679,30.758624,FMC PRICHARD,4016 HWY 45,WHISTLER,AL,36613,Please call patient admission line,open,small_green,Dialysis Center,2153
+"{
+  ""coordinates"": [
+    -9.156019999999999e+01,
+    3.451630000000000e+01
+  ],
+  ""type"": ""Point""
+}",-91.5602,34.5163,2156,"34.51631800,-91.56016500",-91.560165,34.516318,FMCNA - STUTTGART DIALYSIS,805 WEST MADISON,STUTTGART,AR,72160,Please call patient admission line,open,small_green,Dialysis Center,2319
+"{
+  ""coordinates"": [
+    -9.030410000000001e+01,
+    2.945270000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.3041,29.4527,2157,"29.45265300,-90.30412500",-90.304125,29.452653,LADY OF THE SEA DIALYSIS CTR,17108 W MAIN ST,CUT OFF,LA,70345,Please call patient admission line,open,small_green,Dialysis Center,2322
+"{
+  ""coordinates"": [
+    -9.204490000000000e+01,
+    3.024750000000000e+01
+  ],
+  ""type"": ""Point""
+}",-92.0449,30.2475,2158,"30.24745400,-92.04485900",-92.044859,30.247454,"DCI - KIDNEY TREATMENT OPTIONS CTR, LLC (KTOC)",301 ALCIDE DOMINIQUE ROAD,LAFAYETTE,LA,70506,Please call patient admission line,open,small_green,Dialysis Center,2325
+"{
+  ""coordinates"": [
+    -8.707620000000000e+01,
+    3.063650000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.0762,30.6365,2354,"30.63651800,-87.07617400",-87.076174,30.636518,FMC - MILTON,5934 BERRY HILL ROAD #2,MILTON,FL,32570,Please call patient admission line,open,small_green,Dialysis Center,2628
+"{
+  ""coordinates"": [
+    -8.731680000000000e+01,
+    3.041720000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.3168,30.4172,2363,"30.41717400,-87.31681900",-87.316819,30.417174,DaVita West Pensacola Dialysis Center,598 FAIRFIELD DRIVE,PENSACOLA,FL,32506,Please call patient admission line,open,small_green,Dialysis Center,2637
+"{
+  ""coordinates"": [
+    -8.787470000000000e+01,
+    3.155750000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.8747,31.5575,2373,"31.55746400,-87.87465400",-87.874654,31.557464,FMC JACKSON (TOMBIGBEE),215 WALKER SPRINGS RD,JACKSON,AL,36545,Please call patient admission line,open,small_green,Dialysis Center,2647
+"{
+  ""coordinates"": [
+    -8.781640000000000e+01,
+    3.372160000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.8164,33.7216,2377,"33.72158300,-87.81635300",-87.816353,33.721583,DaVita Fayette Dialysis,2450 TEMPLE AVE N,FAYETTE,AL,35555,Please call patient admission line,open,small_green,Dialysis Center,2651
+"{
+  ""coordinates"": [
+    -8.766500000000001e+01,
+    3.474400000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.665,34.744,2384,"34.74398100,-87.66502700",-87.665027,34.743981,DaVita Muscle Shoals Dialysis,712 STATE STREET,MUSCLE SHOALS,AL,35661,Please call patient admission line,open,small_green,Dialysis Center,2658
+"{
+  ""coordinates"": [
+    -8.754389999999999e+01,
+    3.314620000000000e+01
+  ],
+  ""type"": ""Point""
+}",-87.5439,33.1462,2392,"33.14620900,-87.54385200",-87.543852,33.146209,DaVita Crimson Dialysis,6521 Hwy 69 S,TUSCALOOSA,AL,35404,Please call patient admission line,open,small_green,Dialysis Center,2666
+"{
+  ""coordinates"": [
+    -9.082740000000000e+01,
+    3.235360000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.8274,32.3536,2396,"32.35360700,-90.82743200",-90.827432,32.353607,RCG VICKSBURG,105 KEYSTONE CIRCLE,VICKSBURG,MS,39180,Please call patient admission line,open,small_green,Dialysis Center,2670
+"{
+  ""coordinates"": [
+    -8.980390000000000e+01,
+    3.376500000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.8039,33.765,2397,"33.76495000,-89.80390000",-89.8039,33.76495,RCG GRENADA,35 WEST MONROE STREET,GRENADA,MS,38901,Please call patient admission line,open,small_green,Dialysis Center,2671
+"{
+  ""coordinates"": [
+    -9.072410000000001e+01,
+    3.374570000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.7241,33.7457,2398,"33.74565400,-90.72412400",-90.724124,33.745654,RCG CLEVELAND,222 N. PEARMAN AVENUE,CLEVELAND,MS,38732,Please call patient admission line,open,small_green,Dialysis Center,2672
+"{
+  ""coordinates"": [
+    -8.973110000000000e+01,
+    3.187530000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.7311,31.8753,2399,"31.87534300,-89.73111900",-89.731119,31.875343,FMC MAGEE,211 FIRST STREET S.E.,MAGEE,MS,39111,Please call patient admission line,open,small_green,Dialysis Center,2673
+"{
+  ""coordinates"": [
+    -9.098390000000001e+01,
+    3.194550000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.9839,31.9455,2400,"31.94552200,-90.98391900",-90.983919,31.945522,RCG PORT GIBSON,123-A MCCOMB AVE,PORT GIBSON,MS,39150,Please call patient admission line,open,small_green,Dialysis Center,2674
+"{
+  ""coordinates"": [
+    -8.913740000000000e+01,
+    3.085280000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.1374,30.8528,2401,"30.85275600,-89.13738200",-89.137382,30.852756,WIGGINS DIALYSIS,503 FIRST STREET,WIGGINS,MS,39577,Please call patient admission line,open,small_green,Dialysis Center,2901
+"{
+  ""coordinates"": [
+    -8.855780000000000e+01,
+    3.312380000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.5578,33.1238,2402,"33.12376500,-88.55784600",-88.557846,33.123765,RCG MACON (NOXUBEE COUNTY),703 NORTH WASHINGTON STREET,MACON,MS,39341,Please call patient admission line,open,small_green,Dialysis Center,2902
+"{
+  ""coordinates"": [
+    -8.893570000000000e+01,
+    3.135300000000000e+01
+  ],
+  ""type"": ""Point""
+}",-88.9357,31.353,2403,"31.35304100,-88.93567500",-88.935675,31.353041,RICHTON DIALYSIS,507 FRONT STREET,RICHTON,MS,39476,Please call patient admission line,open,small_green,Dialysis Center,2903
+"{
+  ""coordinates"": [
+    -8.905970000000001e+01,
+    3.312360000000000e+01
+  ],
+  ""type"": ""Point""
+}",-89.0597,33.1236,2404,"33.12360700,-89.05965600",-89.059656,33.123607,RCG LOUISVILLE,562-A EAST MAIN STREET,LOUISVILLE,MS,39339,Please call patient admission line,open,small_green,Dialysis Center,2904
+"{
+  ""coordinates"": [
+    -9.037550000000000e+01,
+    3.469710000000000e+01
+  ],
+  ""type"": ""Point""
+}",-90.3755,34.6971,2405,"34.69713800,-90.37545200",-90.375452,34.697138,RCG TUNICA,1821 US HIGHWAY 61 NORTH,TUNICA,MS,38676,Please call patient admission line,open,small_green,Dialysis Center,2905
